@@ -19,3 +19,10 @@ This code was written by Yves Jeanrenaud. It is far perfect, not optimised and n
 * v1.2; added fallover for button delay
 * ~~v1.1; host_is_shut_down to change LED behaviour when USB host is not online - NON FUNCTIONAL~~
 * v1.0; initial release
+
+Beneath the main code file https://github.com/yjeanrenaud/YJ_MuteButton_USB_HID/blob/main/yj_mutebutton.ino
+there is also a slimmer version containing only basic functions for using the Mute Button with zoom:https://github.com/yjeanrenaud/YJ_MuteButton_USB_HID/blob/main/yj_mutebutton_zoomonly.ino. This requires only a few parts:
+* ATmega32U4 comptabile breakout board, e.g. Arduino mini pro (clone) or Arduino Leonardo (clone).
+* Pushbutton with ledbuilt in or separate led.
+* some USB cable for communication and power supply
+* some resistor for the LED, e.g. 100 Ohm
