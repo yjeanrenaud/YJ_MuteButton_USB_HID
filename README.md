@@ -1,6 +1,8 @@
 # YJ_MuteButton_USB_HID
 DIY: Mute Button für Zoom, WebEx, Jitsi, BigBlueButton etc. selbst gebaut
 
+![Image of the button in housing](https://www.pocketpc.ch/magazin/wp-content/uploads/2021/02/Mute-Button-fuer-Zoom-WebEx-Jitsi-BigBlueButton-etc.-selbst-gebaut-1-142x142.jpg)
+
 ## Code for a how to on PocketPC.ch:
 [DIY: Mute Button für Zoom, WebEx, Jitsi, BigBlueButton etc. selbst gebaut](https://www.pocketpc.ch/magazin/tutorial/smart-home-tutorials/diy-mute-button-fuer-zoom-webex-jitsi-bigbluebutton-etc-selbst-gebaut-77105/)
 
@@ -10,6 +12,8 @@ It is inspired by the work of others thankfully published at  https://www.instru
 
 Details on how to build this button you may find under [the URL mentioned above](https://www.pocketpc.ch/magazin/tutorial/smart-home-tutorials/diy-mute-button-fuer-zoom-webex-jitsi-bigbluebutton-etc-selbst-gebaut-77105/
 ).
+
+![Image of wiring](https://www.pocketpc.ch/magazin/wp-content/uploads/2021/02/Mute-Button-fuer-Zoom-WebEx-Jitsi-BigBlueButton-etc.-selbst-gebaut-2-1-scaled.jpg?x81030)
 
 This code was written by Yves Jeanrenaud. It is far perfect, not optimised and not following many practices of good coding paradigms due to the lack of time. Feel free to file a pull request if you have time to optimise.
 
